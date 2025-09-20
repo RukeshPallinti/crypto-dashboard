@@ -41,9 +41,6 @@ pip install -r requirements.txt
 streamlit run dashboard.py  
 <br/>The dashboard will open in your browser at: 👉 <http://localhost:8501>
 
-# 📸 Preview
-
-\[PLACEHOLDER – Add a screenshot or GIF of the dashboard here later\]
 
 # 🔮 Things I want to add later
 
