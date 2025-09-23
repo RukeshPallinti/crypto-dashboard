@@ -24,7 +24,7 @@ I kept it lightweight so it’s easy to run locally and can be extended later.
 crypto-dashboard/  
 │-- dashboard.py -> Main Streamlit app  
 │-- requirements.txt -> All dependencies  
-│-- data/ -> (Optional, if I want to cache or save data)  
+│-- data/ 
 │-- README.docx -> This file
 
 # ⚙️ How to run it
